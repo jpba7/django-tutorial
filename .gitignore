@@ -8,3 +8,5 @@ env.bak/
 venv.bak/
 *.env
 .vscode
+*__pycache__*
+.pylintrc
